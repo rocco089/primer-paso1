@@ -131,3 +131,12 @@
 .gretting {
   text-align: center;
 }
+.loer {
+  color: rgb(49, 22, 51);
+}
+.holas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+}
